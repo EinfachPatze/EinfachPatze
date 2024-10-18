@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ### 🌱 Currently learning:  
 - Assembly
-- java
+- Java
 - C
 
 ### 📫 How to reach me:  
